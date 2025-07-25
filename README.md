@@ -1,4 +1,4 @@
-# AI-Chatbot-by-Samiksha
+# AI-Chatbot1-by-Samiksha
 This is a simple AI assistant built using:
 
 - 🧠 Google Gemini (LLM)
