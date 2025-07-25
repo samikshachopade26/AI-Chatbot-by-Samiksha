@@ -13,3 +13,6 @@ It answers inventory questions like:
 1. User sends a chat message
 2. n8n checks Airtable for inventory
 3. Google Gemini gives a short AI response
+
+Note: This workflow does not contain API keys. Please add your own credentials after importing into n8n.
+
