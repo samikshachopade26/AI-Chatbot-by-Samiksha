@@ -1,4 +1,4 @@
-# AI-Chatbot1-by-Samiksha
+# AI-Chatbot1-by-Samiksha (Using Gemini & Airtable)
 This is a simple AI assistant built using:
 
 - 🧠 Google Gemini (LLM)
